@@ -1,0 +1,14 @@
+.pages{
+  height: 100vh;
+  border: 1px solid #000;
+}
+
+.home{
+  background-color: blue;
+}
+ .about{
+  background-color: chartreuse;
+ }
+ .contact{
+  background-color: crimson;
+ }
